@@ -1,0 +1,24 @@
+img.rounded-circle {
+    width: 7%;
+}
+
+.content-text {
+    width: 13%;
+}
+
+.navbar-brand {
+    margin-left: 10px;
+}
+
+.navbar-brand.font-weight-bold {
+    margin-left: 22px;
+}
+
+img.rounded-github {
+    width: 15%;
+}
+
+.social-content {
+    margin-bottom: 40px;
+}
+
